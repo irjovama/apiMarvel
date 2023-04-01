@@ -315,7 +315,7 @@ health endpoint
 
 # Agradecimientos
 
-Es la primera ocasión que utilizo TypeScript, nest, swagger y que trabajo con microservicios, previo a la prueba técnica realice un ejercicio con javaScript a modo de entender el ejercicio. Una vez que logré entender los conceptos basicos decidí buscar un framework y encontré nest el cual me permitió realizar el proyecto en un par de horas.  
+Es la primera ocasión que utilizo TypeScript, nest, swagger y que trabajo con microservicios, previo a la prueba técnica realice un ejercicio con javaScript a modo de entender el ejercicio. Una vez que logré entender los conceptos basicos decidí buscar un framework y encontré nest el cual me permitió realizar el proyecto en un par de horas.  Aprovecho para agradecer a [Codeable](https://www.codeable.la/) y todo el profesional equipo que lo conforma.
 
 Agradezco enormemente la oportunidad de participar y poder realizar esta prueba técnica ya que en el proceso aprendí bastante y estoy seguro que el solo hecho de desarrollar este ejercicio ha sumado bastante a mi base de conocimientos.
 
