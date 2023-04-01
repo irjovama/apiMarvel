@@ -297,19 +297,19 @@ $ git push heroku master
 
 - Comprobar que funciona la [API](https://rhubarb-sundae-21109.herokuapp.com/)
 
-pantalla principal
+pantalla principal [API](https://rhubarb-sundae-21109.herokuapp.com/)
 
 ![screenshot](./doc-img/img13.jpg)
 
-documentacion
+documentacion [API](https://rhubarb-sundae-21109.herokuapp.com/api-docs/v1)
 
 ![screenshot](./doc-img/img14.jpg)
 
-endpoint characters
+endpoint characters [API](https://rhubarb-sundae-21109.herokuapp.com/api/v1/characters)
 
 ![screenshot](./doc-img/img15.jpg)
 
-health endpoint
+health endpoint  [API](https://rhubarb-sundae-21109.herokuapp.com/health)
 
 ![screenshot](./doc-img/img16.jpg)
 
