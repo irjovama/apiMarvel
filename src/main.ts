@@ -22,7 +22,7 @@ async function bootstrap() {
 
 
 
-
+ console.log("app ready on ", port);
 
   await app.listen(port);
 }
